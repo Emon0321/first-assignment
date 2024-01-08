@@ -203,3 +203,160 @@ nav{
     margin-left: 200px;
     border: 0;
 }
+
+/* best gift section */
+
+.best-gift-section{
+    max-width: 1320px;
+    margin: 0 auto;
+    margin-top: 120px;
+    
+}
+
+.gift-h3{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.gift-h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.gift-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    margin-top: 0;
+    margin-bottom: 48px;
+    
+}
+
+.img1{
+    width: 424px;
+    height: 450px;
+}
+
+.img2{
+    margin-left: 20px;
+    width: 424px;
+    height: 450px;
+}
+
+.img3{
+    margin-left: 20px;
+    width: 424px;
+    height: 450px;
+    
+}
+
+.img4{
+    margin-top: 20px;
+    width: 424px;
+    height: 450px;
+}
+
+.img5{
+    margin-left: 20px;
+    width: 424px;
+    height: 450px;
+    margin-top: 20px;
+}
+
+.img6{
+    margin-left: 20px;
+    width: 424px;
+    height: 450px;
+    margin-top: 20px;
+}
+
+/* subscribe section */
+
+.subscribe-section{
+
+    background-color: #FFEBEE;
+    max-width: 1320px;
+    /* max-height: 482px; */
+    margin: 0 auto;
+    margin-top: 120px;
+    border-radius: 16px;
+    
+}
+
+.sub-img-div{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.subscribe-img{
+
+    width: 150px;
+    height: 150px;
+    
+}
+
+.sub-h1{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.sub-p{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+
+.sub-email{
+    text-align: center;
+    padding: 48px;
+}
+
+.inputemail{
+    padding: 20px 150px 20px 30px;
+    border-radius: 50px 0px 0px 50px;
+    border: none;
+    margin: 0px;
+    
+}
+.btn-sub{
+  
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    background: #F00;
+    padding: 15px 50px 15px 50px;
+    margin: 0px;
+    border: none;
+
+}
+
+
