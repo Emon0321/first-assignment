@@ -1,4 +1,11 @@
 /* common shared style */
+*{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+
+}
+
 
 .merriweather{
     font-family: 'Merriweather', serif;
@@ -373,6 +380,13 @@ nav{
 
 
 }
+
+.footer{
+    background: #070211;
+     height: 609px;
+     margin-top: 120px;
+}
+
 
 
 
