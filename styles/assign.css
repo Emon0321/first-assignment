@@ -209,6 +209,7 @@ nav{
     background: #F00;
     margin-left: 200px;
     border: 0;
+    margin-top: 30px;
 }
 
 /* coming soon section */
@@ -217,8 +218,6 @@ nav{
     display: flex;
     margin-top: 120px;
     max-width: 1320px;
-
-    background-color: #FFEBEE;
     max-width: 1320px;
     max-height: 482px;
     margin: 0 auto;
@@ -229,17 +228,18 @@ nav{
 }
 
 .coming-text1{
-    margin-top: 12px;
+    padding-top: 100px;
 }
 
 .com-new-best-offer{
     color: #F00;
-    text-align: center;
+    
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    padding-bottom: 10px;
     
 }
 
@@ -260,6 +260,7 @@ nav{
     font-style: normal;
     font-weight: 400;
     line-height: 32px; /* 160% */
+    margin-left: 0px;
 }
 
 .com-img{
@@ -269,10 +270,125 @@ nav{
 }
 .img-sercle{
     
-    margin-left: 70px;
+    margin-left: 135px;
     border-radius: 100%;
     border: 12px solid red;
+    
 }
+
+.com-div-tex2{
+    padding-left: 190px;
+    padding-top: 100px;
+}
+
+
+
+.com-h1-2024{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.com-div-p2{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+
+
+
+/* Holidays Sale 50% */
+
+.holiday-sale-main{
+    
+    max-width: 1320px;
+    margin: 0 auto;
+    margin-top: 120px;
+    border-radius: 16px;
+
+}
+
+.holiday-test-div{
+    text-align: center;
+}
+
+.holiday-h4{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holiday-h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.holiday-span{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+
+
+
+
+.holiday-p{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */
+}
+
+
+
+
+.two-img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-img{
+    height: 400px;
+    position: absolute;
+    padding-top: 100px;
+    z-index: 1;
+}
+
+.girlimg{
+    height: 310px;
+    position: absolute;
+    padding-bottom: 200px;
+}
+
+.parcentage{
+    position: relative;
+    right: 200px;
+}
+
+
+
+
 
 /* best gift section */
 
