@@ -211,6 +211,69 @@ nav{
     border: 0;
 }
 
+/* coming soon section */
+
+.comingsoon-maindiv{
+    display: flex;
+    margin-top: 120px;
+    max-width: 1320px;
+
+    background-color: #FFEBEE;
+    max-width: 1320px;
+    max-height: 482px;
+    margin: 0 auto;
+    border-radius: 16px ;
+    margin-top: 120px;
+    
+    
+}
+
+.coming-text1{
+    margin-top: 12px;
+}
+
+.com-new-best-offer{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+
+.com-comingsoon-h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: 0px;
+}
+.com-p1{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+
+.com-img{
+    width: 364.844px;
+    height: 364.844px;
+    padding: 30px;
+}
+.img-sercle{
+    
+    margin-left: 70px;
+    border-radius: 100%;
+    border: 12px solid red;
+}
+
 /* best gift section */
 
 .best-gift-section{
@@ -381,12 +444,85 @@ nav{
 
 }
 
+/* footer section */
+
 .footer{
     background: #070211;
      height: 609px;
      margin-top: 120px;
 }
 
+.footer-ul1 ,.footer-ul2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */
+    list-style: none;
+    
+}
+
+.footer-text{
+    display: flex;
+}
+
+.footer-text{
+    justify-content: space-between;
+    padding: 120px 200px 50px 100px;
+}
+
+.hr1{
+    margin-left: 100px;
+    margin-right: 140px;
+}
+
+.footer-img{
+    text-align: center;
+    margin: 40px;
+}
+
+.footer-img1{
+    width: 64px;
+    height: 64px;
+    margin-right: 24px;
+}
+
+.footer-img2{
+    width: 64px;
+    height: 64px;
+    margin-right: 24px;
+}
+
+.footer-img3{
+    width: 64px;
+    height: 64px;
+}
+
+.footer-img4{
+    width: 64px;
+    height: 64px;
+    margin-left: 24px;
+}
+
+.footer-copyp{
+    
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+.footer-copysec{
+    justify-content: space-between;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 50px;
+
+}
 
 
 
